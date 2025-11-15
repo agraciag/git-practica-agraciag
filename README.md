@@ -13,3 +13,9 @@ Este es un archivo README para practicar los comandos básicos de Git.
 1. `git init` - Inicializar repositorio
 2. `git add` - Añadir archivos al staging
 3. `git commit` - Guardar cambios
+4. `git status` - Ver estado del repositorio
+
+## Historial de cambios:
+
+- [Commit 1] Añadir README inicial
+- [Commit 2] Añadir más información y historial
