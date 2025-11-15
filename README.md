@@ -19,3 +19,9 @@ Este es un archivo README para practicar los comandos básicos de Git.
 
 - [Commit 1] Añadir README inicial
 - [Commit 2] Añadir más información y historial
+- [Commit 3] Añadir guía rápida y conectar con GitHub
+
+## Repositorio Remoto
+
+Este repositorio está conectado con GitHub:
+https://github.com/agraciag/git-practica-agraciag
